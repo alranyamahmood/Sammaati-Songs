@@ -17,7 +17,6 @@
 - Favorites: userId, trackId
 * Trello
 * Wireframe
-- Ranya & Mohd S.
 - Signin, Signup, Home, Playlist, Profile pages
 
 ## 4. Present your progress to instructors by end of day:
